@@ -16,10 +16,15 @@
     object-fit: cover;
   }
 
-  p {
-    margin: auto;
+  .text-about {
     width: 80%;
-    margin-top: revert;
-    text-align: justify;
+    margin: auto;
+
+    p {
+      margin: auto;
+      width: 80%;
+      margin-top: revert;
+      text-align: justify;
+    }
   }
 }
