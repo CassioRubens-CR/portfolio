@@ -1,0 +1,63 @@
+body {
+  background: #333;
+  margin: 0;
+}
+
+#page-home {  
+  background: #333;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  padding-top: 25vh;
+
+  .name-and-presentation {
+    margin: 25px;
+    color: #ffff;
+
+    .img-cassio {
+      background-color: #aaa;
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      overflow: hidden;
+      position: relative;
+      object-fit: cover;
+    }
+  }
+
+  .buttons-home {
+    text-align: center;
+    margin: 25px;
+
+    a {
+      color: transparent;
+    }
+
+    .button-home {
+      background-image: linear-gradient(to right, #403B4A 0%, #6f7056  51%, #403B4A  100%);
+      height: 50px;
+      // margin-top: 64px;
+      margin: 10px;
+      padding: 0px 32px;
+      text-align: center;
+      text-transform: uppercase;
+      transition: 0.5s;
+      background-size: 200% auto;
+      color: white;            
+      box-shadow: 0 0 20px rgb(156, 147, 147);
+      border-radius: 12px;
+      
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+
+      cursor: pointer;
+    }
+
+    .button-home:hover {
+      background-position: right center;
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+}

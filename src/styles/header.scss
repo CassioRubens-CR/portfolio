@@ -1,0 +1,16 @@
+#component-header {
+  background: rgb(66, 66, 66);
+  display: inline-flex;
+  width: 100vw;
+  // width: 100%;
+  justify-content: center;
+
+  h2 {
+    margin-inline: 16px;
+    color: #fff;
+  }
+
+  a {
+    color: transparent;
+  }
+}

@@ -1,0 +1,25 @@
+#page-about {
+  background: #333;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  padding-top: 20vh;
+  color: #fff;
+
+  .img-cassio {
+    background-color: #aaa;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+    object-fit: cover;
+  }
+
+  p {
+    margin: auto;
+    width: 80%;
+    margin-top: revert;
+    text-align: justify;
+  }
+}
