@@ -11,6 +11,7 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
+        <Route path="/portfolio" exact component={Home} />
         <Route path="/" exact component={Home} />
         <Route path="/about" component={About} />
         <Route path="/projects" component={Projects} />
