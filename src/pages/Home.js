@@ -18,7 +18,7 @@ export function Home() {
       </div>
 
       <div className="buttons-home">
-        <Link to="/about">
+        <Link to="/portfolio/about">
           <button
             type="button"
             className="button-home"
@@ -26,22 +26,22 @@ export function Home() {
             Sobre
           </button>
         </Link>
-        <Link to="/projects">
+        <Link to="/portfolio/projects">
           <button type="button" className="button-home">
             Projetos
           </button>
         </Link>
-        <Link to="/hackathon">
+        <Link to="/portfolio/hackathon">
           <button type="button" className="button-home">
             Hackathon
           </button>
         </Link>
-        <Link to="/certificates">
+        <Link to="/portfolio/certificates">
           <button type="button" className="button-home">
             Certificados
           </button>
         </Link>
-        <Link to="/contact">
+        <Link to="/portfolio/contact">
           <button type="button" className="button-home">
             Contato
           </button>
