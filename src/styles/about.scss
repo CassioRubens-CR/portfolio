@@ -1,9 +1,9 @@
 #page-about {
   background: #333;
   text-align: center;
-  height: 100vh;
-  width: 100vw;
-  padding-top: 20vh;
+  // height: 100vh;
+  // width: 100vw;
+  padding-top: 10vh;
   color: #fff;
 
   .img-cassio {
@@ -17,7 +17,7 @@
   }
 
   .text-about {
-    width: 80%;
+    width: 70%;
     margin: auto;
     text-align: center;
 
@@ -25,11 +25,17 @@
       text-align: center;
     }
 
-    p {
-      margin: auto;
+    .text-about-p {
       width: 80%;
-      margin-top: revert;
+      margin: auto;
       text-align: justify;
+    }
+  }
+
+  .icon-about {
+    margin-top: 20px;
+    img {
+      padding: 10px;
     }
   }
 }

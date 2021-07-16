@@ -10,10 +10,12 @@
   // margin-right: 30px;
   // margin-top: 10px;
   // max-height: 200px;
-  display: -ms-inline-grid;
+  display: inline-flex;
   margin: auto;
-  padding: 5px;
-  margin-top: 5px;
+  padding: 16px;
+  margin-top: 10px;
+  max-width: 95%;
+  margin-left: 15px;
 
   .img {
     max-width: 50vh;

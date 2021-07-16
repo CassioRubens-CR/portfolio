@@ -13,13 +13,13 @@ export function Contact() {
       <Header />
       <div id="page-contact">
         <h1>Entre em contato</h1>
-        <p>
+        <p className="text-contact">
           Se chegou ate aqui me sinto orgulhoso e acredito que gostou do conteúdo, fique a vontade para entrar em contato.
         </p>
-        <p>
+        <p className="text-contact">
           Estou a disposição para feedback, duvidas, elogios, sugestões, troca de conhecimentos e critica construtiva, todos os contatos são bem vindo.
         </p>
-        <p>
+        <p className="text-contact">
           Atenciosamente, Cássio Rubens.
         </p>
         <div className="items">
