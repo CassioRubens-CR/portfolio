@@ -1,4 +1,5 @@
 import { Header } from '../components/Header.js';
+import { IssuingOrders } from '../components/IssuingOrders.js';
 import { WebMotors } from '../components/WebMotors.js';
 import { ApiCallCompanyStock } from '../components/ApiCallCompanyStock.js';
 import { ProjectNlw } from '../components/ProjectNlw.js';
@@ -12,6 +13,7 @@ export function Projects() {
     <div>
       <Header />
       <div id="page-projects">
+        <IssuingOrders />
         <WebMotors />
         <ApiCallCompanyStock/>
         <ProjectNlw />
