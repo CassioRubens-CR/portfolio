@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bb8a21d8.chunk.css",
-    "main.js": "/portfolio/static/js/main.cbf78a17.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.cbf78a17.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.ed64d3e9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ed64d3e9.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b8182f07.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b8182f07.js.map",
-    "static/js/2.431ed233.chunk.js": "/portfolio/static/js/2.431ed233.chunk.js",
-    "static/js/2.431ed233.chunk.js.map": "/portfolio/static/js/2.431ed233.chunk.js.map",
+    "static/js/2.78ded994.chunk.js": "/portfolio/static/js/2.78ded994.chunk.js",
+    "static/js/2.78ded994.chunk.js.map": "/portfolio/static/js/2.78ded994.chunk.js.map",
     "static/js/3.8c2d3357.chunk.js": "/portfolio/static/js/3.8c2d3357.chunk.js",
     "static/js/3.8c2d3357.chunk.js.map": "/portfolio/static/js/3.8c2d3357.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.bb8a21d8.chunk.css.map": "/portfolio/static/css/main.bb8a21d8.chunk.css.map",
-    "static/js/2.431ed233.chunk.js.LICENSE.txt": "/portfolio/static/js/2.431ed233.chunk.js.LICENSE.txt",
+    "static/js/2.78ded994.chunk.js.LICENSE.txt": "/portfolio/static/js/2.78ded994.chunk.js.LICENSE.txt",
+    "static/media/ApiCallCompanyStock.487f1384.png": "/portfolio/static/media/ApiCallCompanyStock.487f1384.png",
+    "static/media/CapaIssuingOrders.3814b46a.png": "/portfolio/static/media/CapaIssuingOrders.3814b46a.png",
     "static/media/CapaLetmeAsk.e4ba8e12.jpg": "/portfolio/static/media/CapaLetmeAsk.e4ba8e12.jpg",
     "static/media/CapaNodeJSWa.2486be2e.jpg": "/portfolio/static/media/CapaNodeJSWa.2486be2e.jpg",
+    "static/media/CapaWebMotors.f0e65bae.png": "/portfolio/static/media/CapaWebMotors.f0e65bae.png",
     "static/media/Cassio.034b3858.jpeg": "/portfolio/static/media/Cassio.034b3858.jpeg",
+    "static/media/CertificadoConclusão.c495dfc7.png": "/portfolio/static/media/CertificadoConclusão.c495dfc7.png",
     "static/media/Modulo01FundamentosDoDesenvolvimentoWeb.c02bbda1.jpg": "/portfolio/static/media/Modulo01FundamentosDoDesenvolvimentoWeb.c02bbda1.jpg",
     "static/media/Modulo02DesenvolvimentoFront-End.8005ccb6.jpg": "/portfolio/static/media/Modulo02DesenvolvimentoFront-End.8005ccb6.jpg",
     "static/media/Modulo03DesenvolvimentoBack-End.9ef5769f.jpg": "/portfolio/static/media/Modulo03DesenvolvimentoBack-End.9ef5769f.jpg",
@@ -26,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b8182f07.js",
-    "static/js/2.431ed233.chunk.js",
+    "static/js/2.78ded994.chunk.js",
     "static/css/main.bb8a21d8.chunk.css",
-    "static/js/main.cbf78a17.chunk.js"
+    "static/js/main.ed64d3e9.chunk.js"
   ]
 }
