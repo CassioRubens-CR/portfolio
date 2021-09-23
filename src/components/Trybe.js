@@ -11,6 +11,7 @@ export function Trybe() {
       </div>
       <div className="about-project">
         <h2>Projetos desenvolvidos no curso de Formação em Desenvolvimento Web - Trybe</h2>
+        <h3>Repositório com 40 Projetos desenvolvidos no curso de Formação em Desenvolvimento Web</h3>
         <h3>Full Stack | JavaScript | ReactJS | NodeJS | Python | MySQL | Mongo</h3>
         <h3>
           Curso com duração mínima de 12 meses e carga horária compreendida com cerca de 1.500 horas.

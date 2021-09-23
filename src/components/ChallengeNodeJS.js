@@ -11,7 +11,7 @@ export function ChallengeNodeJS() {
         <img className="img" src={capaNodeJSWa} alt='capaNodeJSWa'/>
       </div>
       <div className="about-project">
-        <h2>Challenge NodeJS</h2>
+        <h2>Projeto CRUD laboratórios e exames</h2>
         <h3>
           Projeto desenvolvido com as tecnologias  JavaScript, NodeJS, MySQL, Sequelize, Knexjs, Express, Nodemon, Dontenv, Insomnia, node-postgres, Heroku. 
 

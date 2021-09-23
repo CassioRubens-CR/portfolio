@@ -12,9 +12,11 @@ export function ProjectNlw() {
         <img className="img" src={capaLetmeAsk} alt='capaLetmeAsk'/>
       </div>
       <div className="about-project">
-        <h2>Projeto LetmeAsk</h2>
+        <h2>Projeto Deixe-me perguntar</h2>
         <h3>Projeto desenvolvido com as tecnologias  REACT, FIREBASE e TYPESCRIPT.
-          Como o próprio nome diz “deixe-me perguntar” é uma aplicação que cria interação direta entre idealizadores e participantes do evento. Isso acontece de forma dinâmica e segura com autentificação obrigatória, através do login rápido que utiliza a conta GMAIL do próprio(a) usuário(a), tanto para criar uma sala ou fazer perguntas.
+          Como o próprio nome diz “deixe-me perguntar” é uma aplicação que cria interação direta entre idealizadores e participantes do evento.
+          
+          Isso acontece de forma dinâmica e segura com autentificação obrigatória, através do login rápido que utiliza a conta GMAIL do próprio(a) usuário(a), tanto para criar uma sala ou fazer perguntas.
 
           A aplicação conta ainda com um botão LIGTH / DARK que trás maior conforto para os(as) usuários(as) com um simples clique.
           
